@@ -1,4 +1,5 @@
-# mr-kushi-website-but-better
+# HOW AM I GETTING SO MANY CLONES???
+# Mr. Kushi's website but better!
 Their original website is horrible looking. This one is way better. 
 
 #### Original link to the original website: 
