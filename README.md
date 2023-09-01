@@ -1,6 +1,9 @@
 # mr-kushi-website-but-better
 Their original website is horrible looking. This one is way better. 
 
+#### Original link to the original website: 
+[mr-kushi.eboard.com](url)
+
 ## How to open?
 1. Push the code button.
 2. From there, there should be a "Download ZIP" button. Click that to download it
