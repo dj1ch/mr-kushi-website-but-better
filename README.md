@@ -1,8 +1,11 @@
-# HOW AM I GETTING SO MANY CLONES???
 # Mr. Kushi's website but better!
-Their original website is horrible looking. This one is way better. 
+## As of right now, development will be a lot slower.
+This soon may become unmaintained.
+##
 
-#### Original link to the original website: 
+Their original website is horrible looking. This one is way better.
+
+#### Original link to the original website:
 [mr-kushi.eboard.com](url)
 
 ## How to open?
