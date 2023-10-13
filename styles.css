@@ -26,3 +26,18 @@ h1, h4 {
 p {
     font-family: Calibri, Arial, sans-serif;
 }
+
+.backbutton {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    text-decoration: none;
+    border: 2px solid #fff;
+    color: #fff;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.backbutton:hover {
+    background-color: #fff;
+    color: #000;
+}
