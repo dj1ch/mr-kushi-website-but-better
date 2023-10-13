@@ -1,0 +1,90 @@
+.main {
+    background-color: #000000;
+    color: #fff;
+        padding: 5px;
+        text-align: center;
+    font-size: 18px;
+    left: 0;
+    right: 0;
+    border-radius: 16px;
+}
+
+.titlebar {
+    background-color: #000000;
+        color: #fff;
+        padding: 5px;
+        text-align: center;
+    font-size: 18px;
+    left: 0;
+    right: 0;
+    border-radius: 16px;
+}
+
+h1, h4 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: Calibri, Arial, sans-serif;
+}
+
+.backbutton {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 10px;
+    text-decoration: none;
+    border: 2px solid #fff; /* add border style */
+    color: #fff;
+    background-color: #000; /* set background color to black */
+    border-radius: 16px;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* transition */
+}
+
+.backbutton:hover {
+    background-color: #fff;
+    color: #000;
+    border-color: #000; /* change color */
+    border-radius: 16px;
+}
+
+.links {
+    display: inline-block;
+    padding: 5px 50px;
+    margin: 10px;
+    text-decoration: none;
+    border: 2px solid #fff; /* add border style */
+    color: #fff;
+    background-color: #000; /* set background color to black */
+    border-radius: 16px;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* transition */
+}
+
+.links:hover {
+    background-color: #fff;
+    color: #000;
+    border-color: #000; /* change color */
+    border-radius: 16px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* center items horizontally */
+    gap: 10px; /* adjust the gap */
+}
+
+.back {
+    display: inline-block;
+}
+
+.maintext {
+  display: block;
+  margin: 10px; 
+  padding: 10px;
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+  border-radius: 16px;
+
+}

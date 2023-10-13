@@ -8,8 +8,3 @@
 <p>- <b>HW 4 </b> STUFF GOES HERE</p>
 <p></p>
 <p></p>
-
-Other code over here...
-
-### I just copy and paste the code to make the next day a little easier.
-### If you want to edit this go ahead!
