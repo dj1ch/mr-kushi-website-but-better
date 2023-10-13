@@ -6,6 +6,7 @@
     font-size: 18px;
     left: 0;
     right: 0;
+    border-radius: 16px;
 }
 
 .titlebar {
@@ -16,6 +17,7 @@
     font-size: 18px;
     left: 0;
     right: 0;
+    border-radius: 16px;
 }
 
 h1, h4 {
@@ -32,12 +34,16 @@ p {
     padding: 10px 20px;
     margin: 10px;
     text-decoration: none;
-    border: 2px solid #fff;
+    border: 2px solid #fff; /* add border style */
     color: #fff;
-    transition: background-color 0.3s, color 0.3s;
+    background-color: #000; /* set background color to black */
+    border-radius: 16px;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s; /* transition */
 }
 
 .backbutton:hover {
     background-color: #fff;
     color: #000;
+    border-color: #000; /* change color */
+    border-radius: 16px;
 }
