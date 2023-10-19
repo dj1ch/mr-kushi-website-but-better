@@ -3,4 +3,4 @@
 Their original website is horrible looking. This one is way better. Mine is hosted here on github.
 
 #### Original link to the original website:
-[mr-kushi.eboard.com](url)
+[here](https://mr-kushi.eboard.com)
