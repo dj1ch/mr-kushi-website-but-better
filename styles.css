@@ -109,3 +109,15 @@ p {
   border-radius: 16px;
 
 }
+
+/* links with no hover effect*/
+.linksnh {
+    display: inline-block;
+    padding: 5px 50px;
+    margin: 10px;
+    text-decoration: none;
+    border: 2px solid #fff;
+    color: #fff;
+    background-color: #000;
+    border-radius: 16px;
+}
