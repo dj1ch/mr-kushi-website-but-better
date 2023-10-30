@@ -121,3 +121,15 @@ p {
     background-color: #000;
     border-radius: 16px;
 }
+
+/* same as the main course*/
+.units {
+  display: block;
+  margin: 60px;
+  padding: 10px;
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+  border-radius: 16px;
+
+}
